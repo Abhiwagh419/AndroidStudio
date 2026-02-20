@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.recipeapp-main-6:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.recipeapp-mergeDebugResources-3:/layout/recipe_item.xml",
+        "source": "com.example.recipeapp-main-6:/layout/recipe_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-mergeDebugResources-3:\\layout\\activity_login.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-main-6:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-mergeDebugResources-3:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-main-6:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-mergeDebugResources-3:\\layout\\splash_activity.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-main-6:\\layout\\splash_activity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-mergeDebugResources-3:\\layout\\activity_signup.xml",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\9.0-milestone-1\\com.example.recipeapp-main-6:\\layout\\activity_signup.xml"
+    }
+]
